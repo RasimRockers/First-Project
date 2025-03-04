@@ -3,7 +3,7 @@ void main() {
 }
 
 class Raja {
-  String name = "Raja Ram";
+  String name = "Shinchan";
   void age() {
     print("24");
   }
